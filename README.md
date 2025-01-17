@@ -3,6 +3,7 @@
 week1.assignment1.ipynb
 ## Week 2 - comleted
 week2.assignment2.ipynb
+week2.assignment2.kaggle.ipynb
 ## Week 3 - in progress
 ## Week 4 - waiting
 ## Week 5 - nnot started yet
